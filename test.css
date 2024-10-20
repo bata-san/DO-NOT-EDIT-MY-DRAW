@@ -5,9 +5,6 @@
     user-select: none;
     pointer-events: none;
 }
-
 @media print {
-    body {
-        display: none
-    }
+    body { display: none }
 }
